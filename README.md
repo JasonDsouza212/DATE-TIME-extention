@@ -3,7 +3,7 @@
 
 This is a basic Extention I built to learn about Chrome extention building.
 This extention helps in showing the present date,time,day,year and month of 
-that present day....
+that present day......
 
 
 ## Authors
